@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+.main .header .navbar-brand{
+    padding-left: 20px;
+    padding-right: 50px;
+}
+.main .collapse .d-flex{
+    margin-left: 50px;
+}
